@@ -1,0 +1,121 @@
+# Copyright (C) 2024 galanakisbm
+# This file is distributed under the same license as the Google Reviews Widget plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Reviews Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/galanakisbm/googlereviews\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+00:00\n"
+"PO-Revision-Date: 2024-01-01 00:00:00+00:00\n"
+"Last-Translator: galanakisbm\n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit\n"
+
+msgid "Google Reviews Settings"
+msgstr "Ρυθμίσεις Google Reviews"
+
+msgid "Google Reviews"
+msgstr "Google Reviews"
+
+msgid "Displays Google reviews from the Places API."
+msgstr "Εμφανίζει κριτικές Google μέσω του Places API."
+
+msgid "API Configuration"
+msgstr "Διαμόρφωση API"
+
+msgid "Google API Key"
+msgstr "Κλειδί API Google"
+
+msgid "Google Place ID"
+msgstr "Place ID Google"
+
+msgid "Your Google Cloud Places API key."
+msgstr "Το κλειδί API του Google Cloud Places."
+
+msgid "The unique Place ID for your business (e.g. ChIJN1t_tDeuEmsRUsoyG83frY4)."
+msgstr "Το μοναδικό Place ID της επιχείρησής σας (π.χ. ChIJN1t_tDeuEmsRUsoyG83frY4)."
+
+msgid "Google Reviews Widget Settings"
+msgstr "Ρυθμίσεις Widget Google Reviews"
+
+msgid "Clear Cache"
+msgstr "Εκκαθάριση Cache"
+
+msgid "Clear Reviews Cache"
+msgstr "Εκκαθάριση Cache Κριτικών"
+
+msgid "Google Reviews cache cleared."
+msgstr "Η cache των Google Reviews εκκαθαρίστηκε."
+
+msgid "API key or Place ID is missing."
+msgstr "Λείπει το κλειδί API ή το Place ID."
+
+msgid "Could not retrieve reviews from Google Places API."
+msgstr "Αδυναμία λήψης κριτικών από το Google Places API."
+
+msgid "%d out of 5 stars"
+msgstr "%d από 5 αστέρια"
+
+msgid "No reviews found."
+msgstr "Δεν βρέθηκαν κριτικές."
+
+msgid "Title:"
+msgstr "Τίτλος:"
+
+msgid "Google API Key (overrides global setting):"
+msgstr "Κλειδί API Google (αντικαθιστά τη γενική ρύθμιση):"
+
+msgid "Google Place ID (overrides global setting):"
+msgstr "Place ID Google (αντικαθιστά τη γενική ρύθμιση):"
+
+msgid "Number of reviews (1–5):"
+msgstr "Αριθμός κριτικών (1–5):"
+
+msgid "Minimum rating (stars):"
+msgstr "Ελάχιστη βαθμολογία (αστέρια):"
+
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+msgid "Uses global setting if empty"
+msgstr "Χρησιμοποιεί τη γενική ρύθμιση αν είναι κενό"
+
+msgid "Number of Reviews"
+msgstr "Αριθμός κριτικών"
+
+msgid "Minimum Rating (stars)"
+msgstr "Ελάχιστη βαθμολογία (αστέρια)"
+
+msgid "Review Card"
+msgstr "Κάρτα Κριτικής"
+
+msgid "Card Background"
+msgstr "Φόντο κάρτας"
+
+msgid "Border Radius"
+msgstr "Ακτίνα γωνιών"
+
+msgid "Typography"
+msgstr "Τυπογραφία"
+
+msgid "Author Name"
+msgstr "Όνομα συγγραφέα"
+
+msgid "Author Color"
+msgstr "Χρώμα συγγραφέα"
+
+msgid "Review Text"
+msgstr "Κείμενο κριτικής"
+
+msgid "Review Text Color"
+msgstr "Χρώμα κειμένου κριτικής"
+
+msgid "Star Color (filled)"
+msgstr "Χρώμα αστεριού (γεμιστό)"
+
+msgid "This is an example review. Your actual reviews will appear here once the widget is configured with a valid API key and Place ID."
+msgstr "Αυτή είναι μια παραδειγματική κριτική. Οι πραγματικές κριτικές σας θα εμφανιστούν εδώ μόλις το widget διαμορφωθεί με έγκυρο κλειδί API και Place ID."
